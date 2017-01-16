@@ -146,6 +146,14 @@ nav ul li a {
   font-style:italic;
 }
 
+.italics {
+  font-style: italic;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
 
 
 
